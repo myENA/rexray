@@ -37,6 +37,14 @@
         },
         {
           "Description": "",
+          "Name": "S3FS_ENDPOINT",
+          "Settable": [
+            "value"
+          ],
+          "Value": ""
+        },
+        {
+          "Description": "",
           "Name": "S3FS_OPTIONS",
           "Settable": [
             "value"
